@@ -1,0 +1,19 @@
+/*Mob_Home.css*/
+.mobHome {
+    display: flex;
+    min-height: 100vh;
+    background-color: #ffffff; /* Background color for the whole page */
+} 
+
+.mainContent {
+    margin-top: 50px; /* Height of the navbar */
+    margin-left: 180px; /* Same as sidebar width */
+    flex-grow: 1;
+    background-color: #ffffff;
+}
+
+
+.pageContent {
+    margin-top: 50px; /* Space for fixed navbar */
+}
+
